@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses",
+            "request": "launch",
+            "mainClass": "Stackproblem.ValidParentheses",
+            "projectName": "r_1fc919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "r_1fc919"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmStrong",
+            "request": "launch",
+            "mainClass": "ArmStrong",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfect_no",
+            "request": "launch",
+            "mainClass": "perfect_no",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch swingAnimation",
+            "request": "launch",
+            "mainClass": "swingJframe.swingAnimation",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInput",
+            "request": "launch",
+            "mainClass": "swingJframe.UserInput",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch calc",
+            "request": "launch",
+            "mainClass": "swingJframe.calc",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddGui1",
+            "request": "launch",
+            "mainClass": "swingJframe.AddGui1",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddGui",
+            "request": "launch",
+            "mainClass": "swingJframe.AddGui",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstGui",
+            "request": "launch",
+            "mainClass": "FirstGui",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyGui",
+            "request": "launch",
+            "mainClass": "MyGui",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ATM",
+            "request": "launch",
+            "mainClass": "src.ATM",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch doc",
+            "request": "launch",
+            "mainClass": "src.doc",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch numgame",
+            "request": "launch",
+            "mainClass": "src.numgame",
+            "projectName": "r_85a0585d"
+        },
+        {
+            "type": "java",
+            "name": "Launch pn",
+            "request": "launch",
+            "mainClass": "src.pn",
+            "projectName": "r_85a0585d"
+        }
+    ]
+}
